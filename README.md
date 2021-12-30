@@ -38,6 +38,8 @@ Ensure that the CreateML format is chosen
 
    ![Move bounding box](./guide/images/move_bbox.png)
 
+   If there's clearly no interaction in the image, **REMOVE** the `v_`-prefixed annotation and replace with one without a prefix.
+
 2. Label remaining non-interactive objects (make sure to use non-prefixed classes)
 
    ![Label non-interactive objects](./guide/images/label_objects.png)
