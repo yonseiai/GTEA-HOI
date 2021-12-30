@@ -48,7 +48,7 @@ def main(source_dir, out_file):
     archive.add(annotations_file)
     archive.close()
 
-    print(f"Wrote {len(items)} annotations to {out_file}")
+    print(f"Wrote {len(items)} annotated images to {out_file}")
 
 
 if __name__ == "__main__":
