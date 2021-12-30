@@ -3,6 +3,8 @@
 import os
 import sys
 import json
+import shutil
+import tarfile
 from tqdm import tqdm
 
 
@@ -23,6 +25,7 @@ def is_modified(data):
 
 
 def main(source_dir, out_file):
+    archive = tarfile.TarFile(out_file, mode="w")
     json_files = [f for f in os.listdir(source_dir) if f[-4:] == "json"]
     items = []
 
@@ -33,8 +36,17 @@ def main(source_dir, out_file):
             if is_modified(data):
                 items.append(data)
 
-    with open(out_file, "w") as h:
+                # Add the jpg to the archive
+                jpg_file = json_file[:-4] + "jpg"
+                archive.add(os.path.join(source_dir, jpg_file))
+
+    annotations_file = "annotations.json"
+
+    with open(annotations_file, "w") as h:
         h.write(json.dumps(items))
+
+    archive.add(annotations_file)
+    archive.close()
 
     print(f"Wrote {len(items)} annotations to {out_file}")
 
