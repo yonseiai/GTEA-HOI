@@ -1,1 +1,1 @@
-[{"image": "pot_verb-put_P26-R05-Cheeseburger-258431-259287-F006200-F006225_f1.jpg", "annotations": [{"label": "v_pot", "coordinates": {"x": 100, "y": 100, "width": 100, "height": 100}}]}]
+[{"image": "pot_verb-put_P26-R05-Cheeseburger-258431-259287-F006200-F006225_f1.jpg", "annotations": [{"label": "v_pot", "coordinates": {"x": 227.1029411764706, "y": 390.5808823529412, "width": 224.20588235294122, "height": 178.83823529411762}}, {"label": "hand", "coordinates": {"x": 148.70588235294122, "y": 461.0808823529412, "width": 139.0, "height": 37.838235294117624}}]}]
