@@ -1,1 +1,1 @@
-[{"image": "cabinet_verb-open_P18-R04-ContinentalBreakfast-732205-733752-F017568-F017615_f1.jpg", "annotations": [{"label": "v_cabinet", "coordinates": {"x": 100, "y": 100, "width": 100, "height": 100}}]}]
+[{"image": "cabinet_verb-open_P18-R04-ContinentalBreakfast-732205-733752-F017568-F017615_f1.jpg", "annotations": [{"label": "v_cabinet", "coordinates": {"x": 319.4230769230769, "y": 240.0, "width": 638.8461538461538, "height": 480.0}}, {"label": "hand", "coordinates": {"x": 208.84615384615384, "y": 460.64285714285717, "width": 56.0, "height": 38.714285714285666}}]}]
