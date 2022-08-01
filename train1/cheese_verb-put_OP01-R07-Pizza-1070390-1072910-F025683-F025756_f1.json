@@ -1,1 +1,1 @@
-[{"image": "cheese_verb-put_OP01-R07-Pizza-1070390-1072910-F025683-F025756_f1.jpg", "annotations": [{"label": "v_cheese", "coordinates": {"x": 100, "y": 100, "width": 100, "height": 100}}]}]
+[{"image": "cheese_verb-put_OP01-R07-Pizza-1070390-1072910-F025683-F025756_f1.jpg", "annotations": [{"label": "carrot", "coordinates": {"x": 462.3461538461538, "y": 203.28571428571433, "width": 169.0, "height": 182.00000000000003}}, {"label": "hand", "coordinates": {"x": 478.3461538461538, "y": 380.64285714285717, "width": 235.0, "height": 198.71428571428567}}]}]

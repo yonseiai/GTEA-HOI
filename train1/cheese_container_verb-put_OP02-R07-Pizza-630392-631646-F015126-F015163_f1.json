@@ -1,1 +1,1 @@
-[{"image": "cheese_container_verb-put_OP02-R07-Pizza-630392-631646-F015126-F015163_f1.jpg", "annotations": [{"label": "v_cheese_container", "coordinates": {"x": 100, "y": 100, "width": 100, "height": 100}}]}]
+[{"image": "cheese_container_verb-put_OP02-R07-Pizza-630392-631646-F015126-F015163_f1.jpg", "annotations": [{"label": "fridge", "coordinates": {"x": 320.4230769230769, "y": 241.64285714285714, "width": 639.1538461538462, "height": 476.71428571428567}}]}]
