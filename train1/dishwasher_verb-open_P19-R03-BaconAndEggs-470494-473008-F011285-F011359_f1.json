@@ -1,1 +1,1 @@
-[{"image": "dishwasher_verb-open_P19-R03-BaconAndEggs-470494-473008-F011285-F011359_f1.jpg", "annotations": [{"label": "v_dishwasher", "coordinates": {"x": 100, "y": 100, "width": 100, "height": 100}}]}]
+[{"image": "dishwasher_verb-open_P19-R03-BaconAndEggs-470494-473008-F011285-F011359_f1.jpg", "annotations": [{"label": "v_dishwasher", "coordinates": {"x": 220.9230769230769, "y": 385.5, "width": 441.8461538461538, "height": 189.0}}, {"label": "hand", "coordinates": {"x": 161.34615384615384, "y": 430.64285714285717, "width": 135.0, "height": 98.71428571428567}}]}]
