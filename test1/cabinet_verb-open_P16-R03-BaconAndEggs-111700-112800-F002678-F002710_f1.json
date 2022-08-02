@@ -1,1 +1,1 @@
-[{"image": "cabinet_verb-open_P16-R03-BaconAndEggs-111700-112800-F002678-F002710_f1.jpg", "annotations": [{"label": "v_cabinet", "coordinates": {"x": 100, "y": 100, "width": 100, "height": 100}}]}]
+[{"image": "cabinet_verb-open_P16-R03-BaconAndEggs-111700-112800-F002678-F002710_f1.jpg", "annotations": [{"label": "v_cabinet", "coordinates": {"x": 322.3018867924528, "y": 231.72012578616352, "width": 510.0, "height": 463.44025157232704}}, {"label": "hand", "coordinates": {"x": 114.80188679245285, "y": 429.7201257861635, "width": 105.0, "height": 100.55974842767296}}]}]
