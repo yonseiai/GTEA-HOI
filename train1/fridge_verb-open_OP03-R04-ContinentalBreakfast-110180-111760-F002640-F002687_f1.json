@@ -1,1 +1,1 @@
-[{"image": "fridge_verb-open_OP03-R04-ContinentalBreakfast-110180-111760-F002640-F002687_f1.jpg", "annotations": [{"label": "v_fridge", "coordinates": {"x": 100, "y": 100, "width": 100, "height": 100}}]}]
+[{"image": "fridge_verb-open_OP03-R04-ContinentalBreakfast-110180-111760-F002640-F002687_f1.jpg", "annotations": [{"label": "condiment_container", "coordinates": {"x": 350.0, "y": 97.5, "width": 164.0, "height": 195.0}}, {"label": "fridge", "coordinates": {"x": 320.0, "y": 240.0, "width": 640.0, "height": 480.0}}]}]

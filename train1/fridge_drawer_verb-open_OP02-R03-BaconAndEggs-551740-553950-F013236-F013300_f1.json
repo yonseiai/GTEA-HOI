@@ -1,1 +1,1 @@
-[{"image": "fridge_drawer_verb-open_OP02-R03-BaconAndEggs-551740-553950-F013236-F013300_f1.jpg", "annotations": [{"label": "v_fridge_drawer", "coordinates": {"x": 100, "y": 100, "width": 100, "height": 100}}]}]
+[{"image": "fridge_drawer_verb-open_OP02-R03-BaconAndEggs-551740-553950-F013236-F013300_f1.jpg", "annotations": [{"label": "fridge_drawer", "coordinates": {"x": 320.0, "y": 344.0, "width": 640.0, "height": 272.0}}, {"label": "fridge", "coordinates": {"x": 321.0, "y": 241.28947368421055, "width": 638.0, "height": 477.4210526315789}}]}]

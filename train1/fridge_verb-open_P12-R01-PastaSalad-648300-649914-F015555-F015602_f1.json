@@ -1,1 +1,1 @@
-[{"image": "fridge_verb-open_P12-R01-PastaSalad-648300-649914-F015555-F015602_f1.jpg", "annotations": [{"label": "v_fridge", "coordinates": {"x": 100, "y": 100, "width": 100, "height": 100}}]}]
+[{"image": "fridge_verb-open_P12-R01-PastaSalad-648300-649914-F015555-F015602_f1.jpg", "annotations": [{"label": "v_fridge", "coordinates": {"x": 221.5, "y": 240.0, "width": 443.0, "height": 480.0}}, {"label": "hand", "coordinates": {"x": 431.0, "y": 408.7894736842105, "width": 164.0, "height": 142.4210526315789}}]}]

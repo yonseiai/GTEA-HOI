@@ -1,1 +1,1 @@
-[{"image": "fridge_verb-open_fridge_verb-open_OP02-R06-GreekSalad-247771-248993-F005943-F005979_f1_f2.jpg", "annotations": [{"label": "v_fridge", "coordinates": {"x": 100, "y": 100, "width": 100, "height": 100}}]}]
+[{"image": "fridge_verb-open_fridge_verb-open_OP02-R06-GreekSalad-247771-248993-F005943-F005979_f1_f2.jpg", "annotations": [{"label": "fridge", "coordinates": {"x": 320.0, "y": 269.0, "width": 640.0, "height": 422.0}}, {"label": "condiment_container", "coordinates": {"x": 324.5, "y": 258.0789473684211, "width": 65.0, "height": 135.0}}]}]

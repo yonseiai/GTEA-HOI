@@ -1,1 +1,1 @@
-[{"image": "fridge_verb-open_fridge_verb-open_OP03-R03-BaconAndEggs-367924-369114-F008827-F008862_f1_f2.jpg", "annotations": [{"label": "v_fridge", "coordinates": {"x": 100, "y": 100, "width": 100, "height": 100}}]}]
+[{"image": "fridge_verb-open_fridge_verb-open_OP03-R03-BaconAndEggs-367924-369114-F008827-F008862_f1_f2.jpg", "annotations": [{"label": "fridge", "coordinates": {"x": 320.0, "y": 240.0, "width": 640.0, "height": 480.0}}, {"label": "hand", "coordinates": {"x": 159.0, "y": 385.2894736842105, "width": 160.0, "height": 189.4210526315789}}]}]
