@@ -1,1 +1,1 @@
-[{"image": "hand_verb-wash_P22-R03-BaconAndEggs-2528225-2532940-F060666-F060802_f1.jpg", "annotations": [{"label": "v_hand", "coordinates": {"x": 100, "y": 100, "width": 100, "height": 100}}]}]
+[{"image": "hand_verb-wash_P22-R03-BaconAndEggs-2528225-2532940-F060666-F060802_f1.jpg", "annotations": [{"label": "v_hand", "coordinates": {"x": 380.5, "y": 369.7894736842105, "width": 217.0, "height": 220.4210526315789}}, {"label": "faucet", "coordinates": {"x": 458.0, "y": 183.0789473684211, "width": 288.0, "height": 357.0}}]}]
