@@ -1,1 +1,1 @@
-[{"image": "dishwasher_verb-open_P10-R05-Cheeseburger-844585-845975-F020267-F020307_f1.jpg", "annotations": [{"label": "v_dishwasher", "coordinates": {"x": 100, "y": 100, "width": 100, "height": 100}}]}]
+[{"image": "dishwasher_verb-open_P10-R05-Cheeseburger-844585-845975-F020267-F020307_f1.jpg", "annotations": [{"label": "v_dishwasher", "coordinates": {"x": 258.5, "y": 309.09375, "width": 517.0, "height": 341.8125}}, {"label": "counter", "coordinates": {"x": 320.0, "y": 129.09375, "width": 640.0, "height": 258.1875}}]}]

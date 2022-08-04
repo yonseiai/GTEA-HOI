@@ -1,1 +1,1 @@
-[{"image": "microwave_verb-operate_P05-R01-PastaSalad-635472-638311-F015244-F015327_f1.jpg", "annotations": [{"label": "v_microwave", "coordinates": {"x": 100, "y": 100, "width": 100, "height": 100}}]}]
+[{"image": "microwave_verb-operate_P05-R01-PastaSalad-635472-638311-F015244-F015327_f1.jpg", "annotations": [{"label": "v_microwave", "coordinates": {"x": 224.5, "y": 259.0, "width": 449.0, "height": 442.0}}, {"label": "hand", "coordinates": {"x": 347.125, "y": 431.59375, "width": 152.0, "height": 96.8125}}]}]

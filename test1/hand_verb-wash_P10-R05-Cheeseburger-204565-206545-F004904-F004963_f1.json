@@ -1,1 +1,1 @@
-[{"image": "hand_verb-wash_P10-R05-Cheeseburger-204565-206545-F004904-F004963_f1.jpg", "annotations": [{"label": "v_hand", "coordinates": {"x": 100, "y": 100, "width": 100, "height": 100}}]}]
+[{"image": "hand_verb-wash_P10-R05-Cheeseburger-204565-206545-F004904-F004963_f1.jpg", "annotations": [{"label": "v_hand", "coordinates": {"x": 373.0625, "y": 275.59375, "width": 127.875, "height": 115.1875}}, {"label": "faucet", "coordinates": {"x": 253.5625, "y": 281.59375, "width": 507.125, "height": 396.8125}}]}]

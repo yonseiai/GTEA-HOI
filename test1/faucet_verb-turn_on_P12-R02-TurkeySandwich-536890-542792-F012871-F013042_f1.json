@@ -1,1 +1,1 @@
-[{"image": "faucet_verb-turn_on_P12-R02-TurkeySandwich-536890-542792-F012871-F013042_f1.jpg", "annotations": [{"label": "v_faucet", "coordinates": {"x": 100, "y": 100, "width": 100, "height": 100}}]}]
+[{"image": "faucet_verb-turn_on_P12-R02-TurkeySandwich-536890-542792-F012871-F013042_f1.jpg", "annotations": [{"label": "v_faucet", "coordinates": {"x": 165.5625, "y": 300.5, "width": 331.125, "height": 359.0}}, {"label": "hand", "coordinates": {"x": 148.125, "y": 166.1875, "width": 170.0, "height": 110.0}}]}]
