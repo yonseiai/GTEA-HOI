@@ -1,1 +1,1 @@
-[{"image": "trash_verb-put_trash_verb-put_OP06-R05-Cheeseburger-436980-438490-F010484-F010527_f1_f2.jpg", "annotations": [{"label": "trash_container", "coordinates": {"x": 515.3548387096774, "y": 413.0, "width": 249.29032258064518, "height": 134.0}}]}]
+[{"image": "trash_verb-put_trash_verb-put_OP06-R05-Cheeseburger-436980-438490-F010484-F010527_f1_f2.jpg", "annotations": [{"label": "trash_can", "coordinates": {"x": 515.3548387096774, "y": 413.0, "width": 249.29032258064518, "height": 134.0}}]}]
