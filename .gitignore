@@ -1,4 +1,6 @@
 .DS_Store
 *.tar.gz
+*.pyc
+.vscode
 env
 annotations.json
