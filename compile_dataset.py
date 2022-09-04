@@ -28,11 +28,19 @@ def process_item(item):
     boxes = []
     objects = []
     actions = []
+    w, h = 640, 480
 
     for a in item["annotations"]:
         coors = a["coordinates"]
 
-        boxes.append([coors["x"], coors["y"], coors["width"], coors["height"]])
+        boxes.append(
+            [
+                coors["x"] / w,
+                coors["y"] / h,
+                coors["width"] / w,
+                coors["height"] / h,
+            ]
+        )
 
         # if a label annotation is prefixed with v_ it is the target of the image action
         if a["label"][:2] == "v_":
