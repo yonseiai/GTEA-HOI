@@ -18,6 +18,8 @@ def plot_hoi(
     actions: t.Optional[t.Union[t.List, Tensor]] = None,
     figure_size: t.Optional[t.Tuple[float, float]] = (16, 10),
 ) -> Image.Image:
+    plt.ioff()
+
     if isinstance(img, Tensor):
         # if the img is a tensor, convert it to a PIL image first
         img = Image.fromarray(img.permute(1, 2, 0).numpy())
@@ -71,6 +73,8 @@ def plot_hoi(
     # save to buffer before opening as a PIL image again
     buf = io.BytesIO()
     plt.savefig(buf)
+
+    plt.close()
     buf.seek(0)
 
     return Image.open(buf)
